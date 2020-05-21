@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="jshoppingorder" method="upgrade">
+	<name>jshopping_mixplat</name>
+	<author>ООО «Миксплат Процессинг»</author>
+	<creationDate>May 2020</creationDate>
+	<copyright>ООО «Миксплат Процессинг» ©</copyright>
+	<license></license>
+	<authorEmail>info@mixplat.ru</authorEmail>
+	<authorUrl>mixplat.ru</authorUrl>
+	<version>0.0.1</version>
+	<description></description>
+	<files>
+		<filename plugin="jshopping_mixplat">jshopping_mixplat.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
